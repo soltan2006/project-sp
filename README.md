@@ -1,2 +1,2 @@
-# project-spproject-sp
+# project-sp
 СПАДЧЫНА – Беларусь в Minecraft 
