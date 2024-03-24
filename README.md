@@ -1,2 +1,2 @@
-# project-spadchina.site
+# project-spproject-sp
 СПАДЧЫНА – Беларусь в Minecraft 
